@@ -18,7 +18,7 @@ object DatabaseConnection {
 
     fun checkConnection() {
         println("======================================================")
-        println("Conexion a MongoDB Atlas configurada y lista para usar")
+        println("conexion a MongoDB Atlas configurada y lista para usar")
         println("======================================================")
     }
 }
